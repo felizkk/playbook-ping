@@ -1,5 +1,0 @@
-Just testing the text file for history here
-
-Adding more text here before commit
-
-And some more...
