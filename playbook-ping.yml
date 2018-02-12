@@ -1,0 +1,6 @@
+---
+- hosts: Serves
+  tasks:
+    - name: Ping All Servers
+      ping:
+...
